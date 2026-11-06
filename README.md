@@ -1,6 +1,6 @@
 # Weighted_Conformal_Clustering
 
-This repository contains the code for the weighted conformal clustering method and the reproducible experiments used in the accompanying paper "Weighted Conformal Clustering" (https://arxiv.org/abs/2606.00436).
+This repository contains the code for the weighted conformal clustering method and the reproducible experiments used in the paper "Weighted Conformal Clustering" (https://arxiv.org/abs/2606.00436).
 
 ## Repository Overview
 
